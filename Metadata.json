@@ -1,7 +1,7 @@
 {
     "Author": "Windows Azure Product Team Scripts",
     "ContentSize": 5129,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/turn-on-logging-&-metrics-for-windows-azure-storage-accounts-in-a-subscription/master/Set-StorageServiceProperties.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/turn-on-logging---metrics-for-windows-azure-storage-accounts-in-a-subscription/master/Set-StorageServiceProperties.ps1",
     "DownloadCount": 1965,
     "Id": "Turn-On-Logging-Metrics-f623fc3b",
     "IsFederated": true,
@@ -15,6 +15,6 @@
     "Summary": "Sets storage logging and metrics settings on storage accounts in the current subscription.  Settings can be enable or disabled.**Note:** This script requires an Azure Storage Account to run.  The storage account can be specified by setting the subscription configuration.",
     "Title": "Turn On Logging & Metrics for Windows Azure Storage Accounts in a Subscription",
     "UpdatedDate": "2014-10-16T00:00:00",
-    "Url": "https://github.com/azureautomation/turn-on-logging-&-metrics-for-windows-azure-storage-accounts-in-a-subscription",
+    "Url": "https://github.com/azureautomation/turn-on-logging---metrics-for-windows-azure-storage-accounts-in-a-subscription",
     "UserTags": "Monitoring"
 }
